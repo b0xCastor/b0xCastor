@@ -8,7 +8,7 @@
   </p>
   <p>
     <a href="https://i.pinimg.com/originals/ca/b2/46/cab2463eccff08174ce7fe410b71da26.gif">
-      <img src="https://img.shields.io/badge/Watch%20the%20Video-red?style=for-the-badge&logo=discord" alt="Click here !"/>
+      <img src="https://img.shields.io/badge/Watch%20the%20Video-red?style=for-the-badge&logo=discord" alt="0xFrance"/>
     </a>
   </p>
 </div>
