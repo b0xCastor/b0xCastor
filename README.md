@@ -8,7 +8,7 @@
   </p>
   <p>
     <a href="https://discord.gg/0xfrance">
-      <img src="https://img.shields.io/badge/Serveur 0xFrance-red?style=for-the-badge&logo=discord" alt="0xFrance"/>
+      <img src="https://img.shields.io/badge/Serveur 0xFrance-blue?style=for-the-badge&logo=discord" alt="0xFrance"/>
     </a>
   </p>
 </div>
