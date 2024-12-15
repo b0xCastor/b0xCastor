@@ -7,7 +7,7 @@
     <img src="https://i.pinimg.com/originals/ca/b2/46/cab2463eccff08174ce7fe410b71da26.gif" alt="Banner Image" />
   </p>
   <p>
-    <a href="https://i.pinimg.com/originals/ca/b2/46/cab2463eccff08174ce7fe410b71da26.gif">
+    <a href="https://discord.gg/0xfrance">
       <img src="https://img.shields.io/badge/Serveur 0xFrance-red?style=for-the-badge&logo=discord" alt="0xFrance"/>
     </a>
   </p>
