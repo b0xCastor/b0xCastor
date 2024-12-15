@@ -18,7 +18,7 @@
 ## <div align="center">About Me</div>
 
 <p align="center">
-  👋 hi, I am passionate about computers, in this field I learn web development (ctf/clash of code and more) but also network vulnerabilities and protocols <br>
+  👋 hi, I am passionate about computers, I learn web development (ctf/clash of code and more) but also network vulnerabilities and protocols <br>
   🎯 My goal: To become better and to be able to live from my skills to help other people. <br>
   🚀 I focus on building clean and efficient web applications. <br>
   
