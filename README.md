@@ -22,8 +22,8 @@
 
 <p align="center" style="max-width: 700px; margin: 0 auto; font-family: 'Segoe UI', sans-serif; line-height: 1.6;">
   👨‍💻 Passionate developer crafting elegant web solutions and mastering network protocols.<br>
-  🌐 Focused on web development, CTF challenges, and Clash of Code.<br>
-  🎯 My mission: Build impactful apps to empower others.<br>
+  📜 Trust only yourself, not even your friends. The only way to respond to betrayal is to have acknowledged it..<br>
+  👤 Being alone is the only way to avoid being betrayed.<br>
 </p>
 
 ## <div align="center"><img src="https://awmfbkyofdolanueabtg.supabase.co/storage/v1/object/public/icon//database.png" width="30"/> Tech Stack</div>
