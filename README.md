@@ -10,7 +10,7 @@
   <a href="https://discord.gg/NNUVTXx4Kx">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://twitter.com/soon">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="mailto:0xcastor@proton.me">
